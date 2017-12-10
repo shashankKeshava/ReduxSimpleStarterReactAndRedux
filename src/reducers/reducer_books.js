@@ -1,11 +1,16 @@
-function () {
-	return [{
-		title: 'Algorithms Basics'
-	}, {
-		title: "Alibaba"
-	}, {
-		title: 'Living With The Seal'
-	}, {
-		title: 'Getting to say Yes'
-	}]
+export default function() {
+    return [
+        {
+            title: 'Algorithms Basics',
+        },
+        {
+            title: 'Alibaba',
+        },
+        {
+            title: 'Living With The Seal',
+        },
+        {
+            title: 'Getting to say Yes',
+        },
+    ];
 }
